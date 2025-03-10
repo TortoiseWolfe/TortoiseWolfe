@@ -1,38 +1,40 @@
-# Hello there, I’m TortoiseWolfe! 🐢🐺
+────────────────────────────────────────────────────────────
+**TORTOISEWOLFE**  
+GRAPHIC DESIGNER & FULL STACK DEVELOPER  
+────────────────────────────────────────────────────────────
 
-> “Slow and steady wins the race—unless there's a sprint to the coffee machine!” ☕️💨
+**CREATIVE VISION & TECHNICAL PRECISION**  
+Bridging DESIGN, DEVOPS, and AEC to craft visually striking, accessible, future-proof solutions.  
+Whether it’s a creative spark from my left-hand intuition or the precision of right-hand execution, I deliver balanced, exceptional results.
 
-## 🌎 About Me
-I’m a curious developer and tech enthusiast diving back into **DevOps** ⚙️, **React** ⚛️, and **React Native** 📱. I blend modern web/mobile development with the AEC world 🏗️, leveraging containerization with **Docker** 🐳 to boost efficiency and spark innovation 🚀.
+## ✨ CORE SKILLS
+- **DESIGN & UI/UX**  
+  - Graphic Design, modular interfaces with **Storybook**, and a history of custom MySpace skins  
+  - Accessibility: semantic markup, high-contrast visuals, responsive layouts  
+- **DEVOPS & CONTAINERIZATION**  
+  - **Docker** 🐳 & **Traefik** 🚦 for streamlined CI/CD pipelines  
+  - AWS, Bash scripting, HPC solutions  
+- **MODERN WEB & MOBILE**  
+  - **React** ⚛️ & **React Native** 📱 for dynamic, cross-platform applications  
+  - Experience with PHP frameworks (CodeIgniter, Drupal, WordPress, Joomla) and MySQL databases  
+- **HEADLESS CMS & APIS**  
+  - WordPress + **GraphQL** 🔗 for flexible content delivery  
+- **AEC & 3D WORKFLOWS**  
+  - **Revit**, **Dynamo**, .NET 4.8, CAD background  
+  - Integrating design models into Unity for immersive 3D experiences
 
----
+## ⚡ HIGHLIGHTS
+- **Balanced Approach:** Leveraging creative intuition with methodical problem-solving for polished digital products  
+- **Freelance Roots:** From early custom MySpace skins to modern full-stack projects  
+- **Cross-Disciplinary Expertise:** Merging architecture, design, and technology for innovative solutions  
+- **Continuous Learning:** Advancing skills in JavaScript, React, server management, and more
 
-## 🔎 What I’m Interested In
-- **DevOps** with containerization & CI/CD pipelines (Traefik in action) 🔄
-- Building dynamic **React** web apps ⚛️ and cross-platform **React Native** projects 📲
-- Modular design with **Storybook** 📚
-- Crafting headless **WordPress** solutions with **GraphQL** 💬
-- Enhancing workflows with **Revit**, **Dynamo**, and **.NET 4.8** 🖥️
+## 🤝 LET’S CONNECT
+- **GitHub:** [TortoiseWolfe](https://github.com/TortoiseWolfe)  
+- **LinkedIn:** [linkedin.com/in/pohlner/](https://www.linkedin.com/in/pohlner/)  
+- **Twitch:** [twitch.tv/turtlewolfe](https://www.twitch.tv/turtlewolfe)  
+- **Website:** [TurtleWolfe.com](https://turtlewolfe.com/)
 
----
-
-## 🚀 Currently Exploring
-- Advanced **DevOps** strategies using Traefik 🚦 and Docker 🐳
-- Next-level **React** and **React Native** applications 🌐
-- State-of-the-art UI design via **Storybook** 🎨
-- Headless WordPress architectures with **GraphQL** 🔗
-- Automation and tooling improvements with **C#** & .NET 🛠️
-
----
-
-## 🤝 Let’s Chat!
-- **GitHub**: [TortoiseWolfe](https://github.com/TortoiseWolfe) 💻
-- **LinkedIn**: [Connect with me here](https://www.linkedin.com/in/pohlner/) 🔗
-- **Twitch**: [Watch me code live](https://www.twitch.tv/turtlewolfe) 🎥
-
----
-
-### Extra Tidbits
-- Passionate about the intersection of **AEC** 🏗️, **DevOps** ⚙️, and modern **Software** 💡.
-- A believer in slow but steady progress—tortoise style, powered by Docker 🐢🐳!
-- Always open to fresh ideas and collaborative projects 🤝✨.
+────────────────────────────────────────────────────────────
+> **READY TO FUSE CREATIVE ARTISTRY WITH TECHNICAL EXCELLENCE?**  
+> Let’s build innovative, future-proof solutions—together!
