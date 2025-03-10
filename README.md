@@ -3,45 +3,44 @@
 
 ---
 
-## TECH: TECHNICAL EXPERTISE ⚙️💡
+## TECHNICAL EXPERTISE ⚙️
 
 **DevOps & Containerization**  
-- **Docker** 🐳 & **Traefik** 🚦 for streamlined CI/CD pipelines  
-- AWS ☁️, **Bash & Linux** 🐧 for robust server management
+- **Docker** 🐳 & **Traefik** 🚦 for efficient CI/CD  
+- AWS ☁️ and **Bash & Linux** 🐧 for robust server management  
 
-**Modern Web & Mobile Development**  
-- **React** ⚛️ & **React Native** 📱 for dynamic, cross-platform apps  
-- **TypeScript** 🔥 for safer, scalable front-end code  
-- PHP frameworks (CodeIgniter, Drupal, WordPress, Joomla) + MySQL 🗄️
+**Web & Mobile Development**  
+- **React** ⚛️ & **React Native** 📱 for dynamic applications  
+- **TypeScript** 🔥 for scalable front-end solutions  
+- PHP frameworks (CodeIgniter, Drupal, WordPress, Joomla) with MySQL 🗄️  
 
-**Programming & Scripting Languages**  
+**Programming Languages**  
 - **C#** 🎯 for .NET, Revit, and Dynamo workflows  
-- **Python** 🐍 for scripting, automation, and data manipulation
+- **Python** 🐍 for scripting and automation  
 
-**Headless CMS & APIs**  
-- WordPress + **GraphQL** 🔗 for flexible content delivery
+**APIs & CMS**  
+- Headless WordPress powered by **GraphQL** 🔗  
 
 **AEC & 3D Workflows**  
-- **Revit**, **Dynamo**, .NET 4.8, CAD background 🏗️  
-- Integrating design models into Unity 🎮 for immersive 3D experiences
+- **Revit**, **Dynamo**, .NET 4.8, and CAD 🏗️  
+- Integrating design models into Unity 🎮
 
 ---
 
-## ART: DESIGN & CREATIVE EXPERTISE 🎨✨
+## DESIGN & CREATIVE EXPERTISE 🎨
 
-**Design & UI/UX**  
-- Graphic design with a history of custom MySpace skins 🎶  
-- Modular interfaces using **Storybook** 📚  
-- Accessibility: semantic markup, high contrast, responsive layouts 🌐
+**UI/UX Design**  
+- Graphic design experience from custom MySpace skins 🎶  
+- Modular interfaces built with **Storybook** 📚  
+- Focus on accessibility: semantic markup, high contrast, and responsive layouts 🌐  
 
-**Creative Vision**  
-- Merging visual artistry with technical precision 🤝  
-- Crafting visually striking, accessible, future-proof solutions 🌟  
-- Balancing creative intuition ✍️ with methodical problem-solving 🤔
+**Creative Direction**  
+- Combining artistic vision with technical rigor  
+- Developing innovative, accessible digital experiences 🌟
 
 ---
 
-## LET’S CONNECT 🤝🔗
+## CONNECT 🤝
 
 - **GitHub:** [TortoiseWolfe](https://github.com/TortoiseWolfe) 💻  
 - **LinkedIn:** [linkedin.com/in/pohlner/](https://www.linkedin.com/in/pohlner/) 🌐  
@@ -50,5 +49,4 @@
 
 ---
 
-**READY TO FUSE TECHNICAL EXCELLENCE WITH CREATIVE ARTISTRY?** 🚀  
-Let’s build innovative, future-proof solutions—together! ✨
+**LET'S BUILD THE FUTURE TOGETHER!** 🚀
