@@ -28,6 +28,7 @@ I’m a curious developer and tech enthusiast diving back into **DevOps** ⚙️
 ## 🤝 Let’s Chat!
 - **GitHub**: [TortoiseWolfe](https://github.com/TortoiseWolfe) 💻
 - **LinkedIn**: [Connect with me here](https://www.linkedin.com/in/pohlner/) 🔗
+- **Twitch**: [Watch me code live](https://www.twitch.tv/turtlewolfe) 🎥
 
 ---
 
